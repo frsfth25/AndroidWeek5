@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWeek5</string>
+    <string-array name="Pokemans">
+        <item>Pikachu</item>
+        <item>Squirtle</item>
+        <item>Mewtwo</item>
+        <item>Charizard</item>
+    </string-array>
+</resources>
